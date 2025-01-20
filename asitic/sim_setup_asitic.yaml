@@ -1,0 +1,22 @@
+L_range:
+- 30
+- 60
+S_range:
+- 1
+- 2
+W_range:
+- 1.5
+- 4
+accuracy: 0.1
+freq_design: 1e09
+freq_start: 1e08
+freq_step: 1e08
+freq_stop: 5e09
+hspice_ser_opt: true
+ind_max: 1e-9
+middle_branch: false
+middle_tap: 3
+tcoil_num_defected: 9994
+tcoil_num_new: 5000
+tcoil_num_old: 0
+tcoil_num_test: 0

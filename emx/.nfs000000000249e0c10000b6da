@@ -1,0 +1,14 @@
+L_range:
+- 32
+- 80
+accuracy: 0.1
+date: '2021-05-10'
+filter: true
+freq_design: 15e09
+freq_start: 1e08
+freq_step: 1e08
+freq_stop: 100e09
+ind_max: 5.0e-10
+middle_tap: 3
+tcoil_num_new: 10000
+tcoil_num_old: 8000

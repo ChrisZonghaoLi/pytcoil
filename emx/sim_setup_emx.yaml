@@ -1,0 +1,12 @@
+L_range:
+- 32
+- 80
+date: '2022-07-02'
+filter: true
+freq_start: 0
+freq_step: 1.024e9
+freq_stop: 4096e9
+middle_tap: 3
+tcoil_num_new: 2920
+tcoil_num_old: 2570
+tcoil_dims_name: 'tcoil_dims_new_2_2_2'
